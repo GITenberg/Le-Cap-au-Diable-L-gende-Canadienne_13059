@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4804'
     url: http://www.gutenberg.org/2009/agents/4804
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13059#Le-Cap-au-Diable-L-gende-Canadienne
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-07-30'
 gutenberg_type: Text
